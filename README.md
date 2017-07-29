@@ -1,5 +1,5 @@
 # scratchcord-examples
-Example projects to make with ScratchCord.
+Example opensource projects to show what you can make with ScratchCord.
 
 **Examples**:
 
