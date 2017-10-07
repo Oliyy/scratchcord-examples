@@ -8,3 +8,5 @@ A ScratchCord "Guess The Number" style game that posts scores to a Discord Chann
 A ScratchCord Spotify player, which logs the songs that are played into a channel.
 
 A ScratchCord Weather Search thing, that will log requests to a channel.
+
+Thank you for reading.
